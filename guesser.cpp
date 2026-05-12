@@ -85,21 +85,3 @@ int main(){
 
     return 0;
 }
-
-
-// Instructions:
-
-//     Use the random_number function to generate a random number between two chosen values. (done)
-//     Ask the player to guess the number. (done)
-//     Compare the guess with the target and tell the player if it’s higher or lower. (done)
-//     Repeat until the correct number is found. (done)
-//     Display a congratulation message when the player wins. (done)
-//     Add extra features to make the game more fun.
-
-// Optional features:
-
-// – Limit the number of attempts. (done)
-// – Display the remaining attempts after each guess. (done)
-// – Let the player define the range (min and max). (done)
-// – Add a replay option at the end. (done)
-// – Display a special message depending on the number of tries used. (done)
