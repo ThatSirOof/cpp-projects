@@ -66,7 +66,7 @@ int main(){
 
         if(user_guess != chosen){
             std::cout <<"\nYou ran out of attempts!\n";
-            std::cout <<"The chosen number was " << chosen << " .-.\n" <<std::endl;
+            std::cout <<"The chosen number was " << chosen << " .-.\n"
         }
 
         do{
