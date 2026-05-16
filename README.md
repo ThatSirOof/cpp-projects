@@ -1,15 +1,7 @@
-# C++ Projects
+# About Me
 
-A collection of C++ projects from beginner to advanced levels
+### Hello, my name is Jason and I am a CS major student
 
-## Projects
+### I am super passionate about C++ and this repository is dedicated to my refining of the language!
 
-### Number Guessing Game
-
-#### Features
-
-- Custom number range
-- Random number generation (RNG)
-- Higher / lower hints
-- Replay option
-- 3 attempts system
+### To whoever see's this repository, I hope you enjoy the work I had created!
